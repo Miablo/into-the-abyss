@@ -39,4 +39,4 @@ Text-based adventure game in MIPS using MARS
  will be predetermined
  
  Sample Scenes
- [Scene 1](miablo.github.com/into-the-abyss/scene1.png)
+ [Scene 1](https://github.com/Miablo/into-the-abyss/blob/main/scene1.PNG)
