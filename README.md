@@ -40,3 +40,7 @@ Text-based adventure game in MIPS using MARS
  
  Sample Scenes
  ![Scene 1](/scene1.PNG)
+ 
+ ![Scene 2](/scene2.PNG)
+  
+ ![Tutorial](/tutorial.PNG)
