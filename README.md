@@ -1,4 +1,8 @@
 # into-the-abyss
+
+###Required###
+Install: http://courses.missouristate.edu/kenvollmar/mars/
+
 Text-based adventure game in MIPS using MARS
 
  Author: Mio Diaz
