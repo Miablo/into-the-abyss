@@ -37,3 +37,6 @@ Text-based adventure game in MIPS using MARS
  other responses are based on chance
  the fate of certain paths - if the end of a path is reached -
  will be predetermined
+ 
+ Sample Scenes
+ [Scene 1](miablo.github.com/into-the-abyss/scene1.png)
