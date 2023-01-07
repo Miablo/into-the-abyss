@@ -6,7 +6,9 @@ Install: http://courses.missouristate.edu/kenvollmar/mars/
 Text-based adventure game in MIPS using MARS
 
  Author: Mio Diaz
+ 
  Purpose: Final Project
+ 
  Text based choose your adventure game
 
  Important: 
@@ -20,7 +22,9 @@ Text-based adventure game in MIPS using MARS
  all characters entered must be UPPERCASE
 
 ################################
+
 ##------ GAME MECHANICS ------##
+
 ################################
 
  Enter the letter in brackets to make that selection
