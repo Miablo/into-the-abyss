@@ -1,6 +1,6 @@
 # into-the-abyss
 
-###Required###
+### Required
 Install: http://courses.missouristate.edu/kenvollmar/mars/
 
 Text-based adventure game in MIPS using MARS
@@ -22,6 +22,7 @@ Text-based adventure game in MIPS using MARS
 ################################
 ##------ GAME MECHANICS ------##
 ################################
+
  Enter the letter in brackets to make that selection
  game will determine your fate based on your selection
  each game play won't be the same as the last
